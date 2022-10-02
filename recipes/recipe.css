@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(0, 255, 255, 0.6);
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p,
+li {
+    font-size: 16px;
+ }
